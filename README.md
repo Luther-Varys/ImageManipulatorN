@@ -3,6 +3,10 @@
 Basic image data type converter. Images can be converted between Image objects, byte arrays, streams. Build in C# .net
 </h3>
 
+<h4>
+The library is in the ImageManipulatorNLib folder
+</h4>
+
 reads images from:
 <ul>
   <li>file path</li>
